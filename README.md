@@ -1,2 +1,2 @@
 # sm-blogger
-My blog in racket frog
+My new blog in racket frog
